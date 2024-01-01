@@ -7,7 +7,6 @@
 - [Tech Stack](#tech-stack)
 - [What I Learned](#what-i-learned)
 - [Continued Development](#continued-development)
-- [Author](#author)
 
 ## Overview
 This project is a music discovery application that allows users to explore and interact with music in various ways.
@@ -43,8 +42,5 @@ This project was built using the following technologies and libraries:
 - Explore advanced Redux patterns like middleware for asynchronous operations.
 - Consider integrating additional APIs for more music-related data.
 - Enhance user experience with animations and transitions.
-
-## Author
-[Shimaa Mahmoud]
 
 
